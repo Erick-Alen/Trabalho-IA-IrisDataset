@@ -1,2 +1,2 @@
 # Trabalho-IA-IrisDataset
-Projeto proposto na disciplina de Inteligência artificial, com o intuito de dar um embasamento inicial em ciência de dados
+Projeto proposto na disciplina de Inteligência artificial, com o intuito de dar um embasamento inicial no assunto de ciência de dados, aprendendo sobre os conceitos básicos de estatística e modelos de treinamento, de acordo na base de dados (dataset) utilizada. O dataset usado foi o iris dataset, onde temos três tipos de plantas que diferem em tamanho de pétalas e sépalas.
